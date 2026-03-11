@@ -1,6 +1,6 @@
 # chess-achievements
 
-89 icons · 90×90 · multicolor
+90 icons · 90×90 · multicolor
 
 ## Preview
 
@@ -13,7 +13,7 @@
 | <img src="icons/achievements-giver.svg" width="48" alt="achievements-giver"> | <img src="icons/achievements-good-habit.svg" width="48" alt="achievements-good-habit"> | <img src="icons/achievements-good-read.svg" width="48" alt="achievements-good-read"> | <img src="icons/achievements-happy-anniversary.svg" width="48" alt="achievements-happy-anniversary"> | <img src="icons/achievements-highest-rated-turn-based.svg" width="48" alt="achievements-highest-rated-turn-based"> | <img src="icons/achievements-hindsight-20-20.svg" width="48" alt="achievements-hindsight-20-20"> | <img src="icons/achievements-holly.svg" width="48" alt="achievements-holly"> | <img src="icons/achievements-introspection.svg" width="48" alt="achievements-introspection"> |
 | <img src="icons/achievements-jingle.svg" width="48" alt="achievements-jingle"> | <img src="icons/achievements-juggler.svg" width="48" alt="achievements-juggler"> | <img src="icons/achievements-knight-school.svg" width="48" alt="achievements-knight-school"> | <img src="icons/achievements-legend.svg" width="48" alt="achievements-legend"> | <img src="icons/achievements-lesson-king.svg" width="48" alt="achievements-lesson-king"> | <img src="icons/achievements-library-card.svg" width="48" alt="achievements-library-card"> | <img src="icons/achievements-man-vs-machine.svg" width="48" alt="achievements-man-vs-machine"> | <img src="icons/achievements-megaphone.svg" width="48" alt="achievements-megaphone"> |
 
-*Showing 48 of 89 icons. Browse [`icons/`](./icons) for the full set.*
+*Showing 48 of 90 icons. Browse [`icons/`](./icons) for the full set.*
 
 ## Usage
 

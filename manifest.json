@@ -2,7 +2,7 @@
   "name": "chess-achievements",
   "version": "1.0.0",
   "artboardSize": 90,
-  "iconCount": 89,
+  "iconCount": 90,
   "icons": [
     "achievements-1st-word",
     "achievements-amethyst",
@@ -92,7 +92,8 @@
     "achievements-tv-junkie",
     "achievements-vip-referrer",
     "achievements-welcome",
-    "achievements-wood"
+    "achievements-wood",
+    "Untitled"
   ],
   "colorMode": "multicolor"
 }

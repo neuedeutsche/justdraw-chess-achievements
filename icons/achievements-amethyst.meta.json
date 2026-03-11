@@ -5,13 +5,13 @@
   "document": {
     "paths": [
       {
-        "id": "path_6398",
+        "id": "path_14587",
         "type": "group",
         "children": [
           {
-            "id": "path_6399",
+            "id": "path_14574",
             "contour": {
-              "id": "c_path_6399",
+              "id": "c1",
               "closed": true,
               "nodes": [
                 {
@@ -111,7 +111,7 @@
             "strokes": [],
             "contours": [
               {
-                "id": "c_path_6399",
+                "id": "c1",
                 "closed": true,
                 "nodes": [
                   {
@@ -205,9 +205,9 @@
             "blendMode": "normal"
           },
           {
-            "id": "path_6400",
+            "id": "path_14575",
             "contour": {
-              "id": "c_path_6400",
+              "id": "c1",
               "closed": true,
               "nodes": [
                 {
@@ -307,7 +307,7 @@
             "strokes": [],
             "contours": [
               {
-                "id": "c_path_6400",
+                "id": "c1",
                 "closed": true,
                 "nodes": [
                   {
@@ -405,20 +405,15 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_6401",
+        "id": "path_14586",
         "type": "group",
         "children": [
           {
-            "id": "path_6402",
+            "id": "path_14576",
             "contour": {
               "id": "c1",
-              "closed": false,
+              "closed": true,
               "nodes": [
-                {
-                  "x": 55.37,
-                  "y": 29.526666666666667,
-                  "type": "line"
-                },
                 {
                   "x": 67.45333333333332,
                   "y": 29.526666666666667,
@@ -484,13 +479,8 @@
             "contours": [
               {
                 "id": "c1",
-                "closed": false,
+                "closed": true,
                 "nodes": [
-                  {
-                    "x": 55.37,
-                    "y": 29.526666666666667,
-                    "type": "line"
-                  },
                   {
                     "x": 67.45333333333332,
                     "y": 29.526666666666667,
@@ -636,9 +626,9 @@
             "blendMode": "normal"
           },
           {
-            "id": "path_6403",
+            "id": "path_14577",
             "contour": {
-              "id": "c_path_6403",
+              "id": "c1",
               "closed": true,
               "nodes": [
                 {
@@ -938,7 +928,7 @@
             "strokes": [],
             "contours": [
               {
-                "id": "c_path_6403",
+                "id": "c1",
                 "closed": true,
                 "nodes": [
                   {
@@ -1232,16 +1222,11 @@
             "blendMode": "normal"
           },
           {
-            "id": "path_6404",
+            "id": "path_14578",
             "contour": {
               "id": "c1",
-              "closed": false,
+              "closed": true,
               "nodes": [
-                {
-                  "x": 34.63,
-                  "y": 29.526666666666667,
-                  "type": "line"
-                },
                 {
                   "x": 34.63,
                   "y": 48.33111111111111,
@@ -1297,13 +1282,8 @@
             "contours": [
               {
                 "id": "c1",
-                "closed": false,
+                "closed": true,
                 "nodes": [
-                  {
-                    "x": 34.63,
-                    "y": 29.526666666666667,
-                    "type": "line"
-                  },
                   {
                     "x": 34.63,
                     "y": 48.33111111111111,
@@ -1434,9 +1414,9 @@
             "blendMode": "normal"
           },
           {
-            "id": "path_6405",
+            "id": "path_14579",
             "contour": {
-              "id": "c_path_6405",
+              "id": "c1",
               "closed": true,
               "nodes": [
                 {
@@ -1736,7 +1716,7 @@
             "strokes": [],
             "contours": [
               {
-                "id": "c_path_6405",
+                "id": "c1",
                 "closed": true,
                 "nodes": [
                   {
@@ -2030,13 +2010,13 @@
             "blendMode": "normal"
           },
           {
-            "id": "path_6406",
+            "id": "path_14585",
             "type": "group",
             "children": [
               {
-                "id": "path_6407",
+                "id": "path_14580",
                 "contour": {
-                  "id": "c_path_6407",
+                  "id": "c1",
                   "closed": true,
                   "nodes": [
                     {
@@ -2116,7 +2096,7 @@
                 "strokes": [],
                 "contours": [
                   {
-                    "id": "c_path_6407",
+                    "id": "c1",
                     "closed": true,
                     "nodes": [
                       {
@@ -2190,9 +2170,9 @@
                 "blendMode": "normal"
               },
               {
-                "id": "path_6408",
+                "id": "path_14581",
                 "contour": {
-                  "id": "c_path_6408",
+                  "id": "c1",
                   "closed": true,
                   "nodes": [
                     {
@@ -2292,7 +2272,7 @@
                 "strokes": [],
                 "contours": [
                   {
-                    "id": "c_path_6408",
+                    "id": "c1",
                     "closed": true,
                     "nodes": [
                       {
@@ -2386,9 +2366,9 @@
                 "blendMode": "normal"
               },
               {
-                "id": "path_6409",
+                "id": "path_14582",
                 "contour": {
-                  "id": "c_path_6409",
+                  "id": "c1",
                   "closed": true,
                   "nodes": [
                     {
@@ -2523,7 +2503,7 @@
                 "strokes": [],
                 "contours": [
                   {
-                    "id": "c_path_6409",
+                    "id": "c1",
                     "closed": true,
                     "nodes": [
                       {
@@ -2652,9 +2632,9 @@
                 "blendMode": "normal"
               },
               {
-                "id": "path_6410",
+                "id": "path_14583",
                 "contour": {
-                  "id": "c_path_6410",
+                  "id": "c1",
                   "closed": true,
                   "nodes": [
                     {
@@ -2764,7 +2744,7 @@
                 "strokes": [],
                 "contours": [
                   {
-                    "id": "c_path_6410",
+                    "id": "c1",
                     "closed": true,
                     "nodes": [
                       {
@@ -2868,9 +2848,9 @@
                 "blendMode": "normal"
               },
               {
-                "id": "path_6411",
+                "id": "path_14584",
                 "contour": {
-                  "id": "c_path_6411",
+                  "id": "c1",
                   "closed": true,
                   "nodes": [
                     {
@@ -2970,7 +2950,7 @@
                 "strokes": [],
                 "contours": [
                   {
-                    "id": "c_path_6411",
+                    "id": "c1",
                     "closed": true,
                     "nodes": [
                       {

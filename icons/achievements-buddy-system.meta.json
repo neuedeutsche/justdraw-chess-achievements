@@ -5,13 +5,13 @@
   "document": {
     "paths": [
       {
-        "id": "path_6808",
+        "id": "path_10943",
         "type": "group",
         "children": [
           {
-            "id": "path_6809",
+            "id": "path_10944",
             "contour": {
-              "id": "c_path_6809",
+              "id": "c_path_10944",
               "closed": true,
               "nodes": [
                 {
@@ -37,16 +37,45 @@
               ]
             },
             "fills": [],
-            "strokes": []
+            "strokes": [],
+            "contours": [
+              {
+                "id": "c_path_10944",
+                "closed": true,
+                "nodes": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "type": "line"
+                  },
+                  {
+                    "x": 90,
+                    "y": 0,
+                    "type": "line"
+                  },
+                  {
+                    "x": 90,
+                    "y": 90,
+                    "type": "line"
+                  },
+                  {
+                    "x": 0,
+                    "y": 90,
+                    "type": "line"
+                  }
+                ]
+              }
+            ],
+            "blendMode": "normal"
           },
           {
-            "id": "path_6810",
+            "id": "path_10945",
             "type": "group",
             "children": [
               {
-                "id": "path_6811",
+                "id": "path_10946",
                 "contour": {
-                  "id": "c_path_6811",
+                  "id": "c_path_10946",
                   "closed": true,
                   "nodes": [
                     {
@@ -138,12 +167,101 @@
                     "opacity": 1
                   }
                 ],
-                "strokes": []
+                "strokes": [],
+                "contours": [
+                  {
+                    "id": "c_path_10946",
+                    "closed": true,
+                    "nodes": [
+                      {
+                        "x": 89.44444444444444,
+                        "y": 83.04222222222222,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 83.04444444444444,
+                        "y": 89.44333333333333,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 75.22222222222221,
+                        "y": 89.44333333333333,
+                        "type": "curve"
+                      },
+                      {
+                        "x": 14.778888888888886,
+                        "y": 89.44333333333333,
+                        "type": "line"
+                      },
+                      {
+                        "x": 6.955555555555555,
+                        "y": 89.44333333333333,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 0.5544444444444423,
+                        "y": 83.04222222222222,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 0.5544444444444423,
+                        "y": 75.22,
+                        "type": "curve"
+                      },
+                      {
+                        "x": 0.5544444444444423,
+                        "y": 14.777777777777777,
+                        "type": "line"
+                      },
+                      {
+                        "x": 0.5555555555555556,
+                        "y": 6.955555555555556,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 6.956666666666666,
+                        "y": 0.5555555555555556,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 14.778888888888886,
+                        "y": 0.5555555555555556,
+                        "type": "curve"
+                      },
+                      {
+                        "x": 75.22222222222221,
+                        "y": 0.5555555555555556,
+                        "type": "line"
+                      },
+                      {
+                        "x": 83.04444444444444,
+                        "y": 0.5555555555555556,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 89.44444444444444,
+                        "y": 6.955555555555556,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 89.44444444444444,
+                        "y": 14.777777777777777,
+                        "type": "curve"
+                      },
+                      {
+                        "x": 89.44444444444444,
+                        "y": 75.22,
+                        "type": "line"
+                      }
+                    ]
+                  }
+                ],
+                "blendMode": "normal"
               },
               {
-                "id": "path_6812",
+                "id": "path_10947",
                 "contour": {
-                  "id": "c_path_6812",
+                  "id": "c_path_10947",
                   "closed": true,
                   "nodes": [
                     {
@@ -235,26 +353,117 @@
                     "opacity": 1
                   }
                 ],
-                "strokes": []
+                "strokes": [],
+                "contours": [
+                  {
+                    "id": "c_path_10947",
+                    "closed": true,
+                    "nodes": [
+                      {
+                        "x": 16.27111111111111,
+                        "y": 6.805555555555555,
+                        "type": "line"
+                      },
+                      {
+                        "x": 73.7311111111111,
+                        "y": 6.805555555555555,
+                        "type": "curve"
+                      },
+                      {
+                        "x": 78.94888888888887,
+                        "y": 6.805555555555555,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 83.19444444444443,
+                        "y": 11.052222222222222,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 83.19444444444443,
+                        "y": 16.27,
+                        "type": "line"
+                      },
+                      {
+                        "x": 83.19444444444443,
+                        "y": 73.72888888888887,
+                        "type": "curve"
+                      },
+                      {
+                        "x": 83.19444444444443,
+                        "y": 78.94888888888887,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 78.94888888888887,
+                        "y": 83.19333333333333,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 73.7311111111111,
+                        "y": 83.19333333333333,
+                        "type": "line"
+                      },
+                      {
+                        "x": 16.27111111111111,
+                        "y": 83.19333333333333,
+                        "type": "curve"
+                      },
+                      {
+                        "x": 11.053333333333331,
+                        "y": 83.19333333333333,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 6.805555555555555,
+                        "y": 78.94888888888887,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 6.805555555555555,
+                        "y": 73.72888888888887,
+                        "type": "line"
+                      },
+                      {
+                        "x": 6.805555555555555,
+                        "y": 16.27,
+                        "type": "curve"
+                      },
+                      {
+                        "x": 6.805555555555555,
+                        "y": 11.052222222222222,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 11.053333333333331,
+                        "y": 6.805555555555555,
+                        "type": "offcurve"
+                      }
+                    ]
+                  }
+                ],
+                "blendMode": "normal"
               }
             ],
-            "expanded": false
+            "expanded": false,
+            "blendMode": "normal"
           }
         ],
-        "expanded": false
+        "expanded": false,
+        "blendMode": "normal"
       },
       {
-        "id": "path_6813",
+        "id": "path_10948",
         "type": "group",
         "children": [
           {
-            "id": "path_6814",
+            "id": "path_10949",
             "type": "group",
             "children": [
               {
-                "id": "path_6815",
+                "id": "path_10950",
                 "contour": {
-                  "id": "c_path_6815",
+                  "id": "c_path_10950",
                   "closed": true,
                   "nodes": [
                     {
@@ -330,16 +539,89 @@
                     "opacity": 1
                   }
                 ],
-                "strokes": []
+                "strokes": [],
+                "contours": [
+                  {
+                    "id": "c_path_10950",
+                    "closed": true,
+                    "nodes": [
+                      {
+                        "x": 33.99034501543156,
+                        "y": 22.341111111111108,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 37.998888888888885,
+                        "y": 26.349654984568442,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 37.998888888888885,
+                        "y": 31.29444444444444,
+                        "type": "curve",
+                        "smooth": true
+                      },
+                      {
+                        "x": 37.998888888888885,
+                        "y": 36.239233904320436,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 33.99034501543156,
+                        "y": 40.24777777777777,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 29.045555555555556,
+                        "y": 40.24777777777777,
+                        "type": "curve",
+                        "smooth": true
+                      },
+                      {
+                        "x": 24.100766095679557,
+                        "y": 40.24777777777777,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 20.092222222222226,
+                        "y": 36.239233904320436,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 20.092222222222226,
+                        "y": 31.29444444444444,
+                        "type": "curve",
+                        "smooth": true
+                      },
+                      {
+                        "x": 20.092222222222226,
+                        "y": 26.349654984568442,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 24.100766095679557,
+                        "y": 22.341111111111108,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 29.045555555555556,
+                        "y": 22.341111111111108,
+                        "type": "curve",
+                        "smooth": true
+                      }
+                    ]
+                  }
+                ],
+                "blendMode": "normal"
               },
               {
-                "id": "path_6816",
+                "id": "path_10951",
                 "type": "group",
                 "children": [
                   {
-                    "id": "path_6817",
+                    "id": "path_10952",
                     "contour": {
-                      "id": "c_path_6817",
+                      "id": "c_path_10952",
                       "closed": true,
                       "nodes": [
                         {
@@ -371,20 +653,49 @@
                         "opacity": 1
                       }
                     ],
-                    "strokes": []
+                    "strokes": [],
+                    "contours": [
+                      {
+                        "id": "c_path_10952",
+                        "closed": true,
+                        "nodes": [
+                          {
+                            "x": 21.377777777777776,
+                            "y": 38.38111111111111,
+                            "type": "line"
+                          },
+                          {
+                            "x": 36.712222222222216,
+                            "y": 38.38111111111111,
+                            "type": "line"
+                          },
+                          {
+                            "x": 36.712222222222216,
+                            "y": 44.33444444444444,
+                            "type": "line"
+                          },
+                          {
+                            "x": 21.377777777777776,
+                            "y": 44.33444444444444,
+                            "type": "line"
+                          }
+                        ]
+                      }
+                    ],
+                    "blendMode": "normal"
                   },
                   {
-                    "id": "path_6818",
+                    "id": "path_10953",
                     "type": "group",
                     "children": [
                       {
-                        "id": "path_6819",
+                        "id": "path_10954",
                         "type": "group",
                         "children": [
                           {
-                            "id": "path_6820",
+                            "id": "path_10955",
                             "contour": {
-                              "id": "c_path_6820",
+                              "id": "c_path_10955",
                               "closed": true,
                               "nodes": [
                                 {
@@ -416,12 +727,41 @@
                                 "opacity": 1
                               }
                             ],
-                            "strokes": []
+                            "strokes": [],
+                            "contours": [
+                              {
+                                "id": "c_path_10955",
+                                "closed": true,
+                                "nodes": [
+                                  {
+                                    "x": 19.482222222222223,
+                                    "y": 55.04888888888888,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 38.60888888888889,
+                                    "y": 55.04888888888888,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 38.60888888888889,
+                                    "y": 63.252222222222215,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 19.482222222222223,
+                                    "y": 63.252222222222215,
+                                    "type": "line"
+                                  }
+                                ]
+                              }
+                            ],
+                            "blendMode": "normal"
                           },
                           {
-                            "id": "path_6821",
+                            "id": "path_10956",
                             "contour": {
-                              "id": "c_path_6821",
+                              "id": "c_path_10956",
                               "closed": true,
                               "nodes": [
                                 {
@@ -483,15 +823,75 @@
                                 "opacity": 1
                               }
                             ],
-                            "strokes": []
+                            "strokes": [],
+                            "contours": [
+                              {
+                                "id": "c_path_10956",
+                                "closed": true,
+                                "nodes": [
+                                  {
+                                    "x": 40.37222222222222,
+                                    "y": 58.845555555555556,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 42.465555555555554,
+                                    "y": 58.845555555555556,
+                                    "type": "offcurve"
+                                  },
+                                  {
+                                    "x": 44.16444444444444,
+                                    "y": 60.54444444444444,
+                                    "type": "offcurve"
+                                  },
+                                  {
+                                    "x": 44.16444444444444,
+                                    "y": 62.63777777777778,
+                                    "type": "curve"
+                                  },
+                                  {
+                                    "x": 44.16444444444444,
+                                    "y": 67.65777777777777,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 13.926666666666666,
+                                    "y": 67.65777777777777,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 13.926666666666666,
+                                    "y": 62.63777777777778,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 13.926666666666666,
+                                    "y": 60.54444444444444,
+                                    "type": "offcurve"
+                                  },
+                                  {
+                                    "x": 15.625555555555554,
+                                    "y": 58.845555555555556,
+                                    "type": "offcurve"
+                                  },
+                                  {
+                                    "x": 17.718888888888888,
+                                    "y": 58.845555555555556,
+                                    "type": "curve"
+                                  }
+                                ]
+                              }
+                            ],
+                            "blendMode": "normal"
                           }
                         ],
-                        "expanded": false
+                        "expanded": false,
+                        "blendMode": "normal"
                       },
                       {
-                        "id": "path_6822",
+                        "id": "path_10957",
                         "contour": {
-                          "id": "c_path_6822",
+                          "id": "c_path_10957",
                           "closed": true,
                           "nodes": [
                             {
@@ -523,25 +923,57 @@
                             "opacity": 1
                           }
                         ],
-                        "strokes": []
+                        "strokes": [],
+                        "contours": [
+                          {
+                            "id": "c_path_10957",
+                            "closed": true,
+                            "nodes": [
+                              {
+                                "x": 23.05222222222222,
+                                "y": 41.35777777777778,
+                                "type": "line"
+                              },
+                              {
+                                "x": 35.03888888888889,
+                                "y": 41.35777777777778,
+                                "type": "line"
+                              },
+                              {
+                                "x": 35.03888888888889,
+                                "y": 62.178888888888885,
+                                "type": "line"
+                              },
+                              {
+                                "x": 23.05222222222222,
+                                "y": 62.178888888888885,
+                                "type": "line"
+                              }
+                            ]
+                          }
+                        ],
+                        "blendMode": "normal"
                       }
                     ],
-                    "expanded": false
+                    "expanded": false,
+                    "blendMode": "normal"
                   }
                 ],
-                "expanded": false
+                "expanded": false,
+                "blendMode": "normal"
               }
             ],
-            "expanded": false
+            "expanded": false,
+            "blendMode": "normal"
           },
           {
-            "id": "path_6823",
+            "id": "path_10958",
             "type": "group",
             "children": [
               {
-                "id": "path_6824",
+                "id": "path_10959",
                 "contour": {
-                  "id": "c_path_6824",
+                  "id": "c_path_10959",
                   "closed": true,
                   "nodes": [
                     {
@@ -617,16 +1049,89 @@
                     "opacity": 1
                   }
                 ],
-                "strokes": []
+                "strokes": [],
+                "contours": [
+                  {
+                    "id": "c_path_10959",
+                    "closed": true,
+                    "nodes": [
+                      {
+                        "x": 65.81034501543154,
+                        "y": 22.341111111111108,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 69.81888888888889,
+                        "y": 26.349654984568442,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 69.81888888888889,
+                        "y": 31.29444444444444,
+                        "type": "curve",
+                        "smooth": true
+                      },
+                      {
+                        "x": 69.81888888888889,
+                        "y": 36.239233904320436,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 65.81034501543154,
+                        "y": 40.24777777777777,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 60.865555555555545,
+                        "y": 40.24777777777777,
+                        "type": "curve",
+                        "smooth": true
+                      },
+                      {
+                        "x": 55.92076609567955,
+                        "y": 40.24777777777777,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 51.91222222222222,
+                        "y": 36.239233904320436,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 51.91222222222222,
+                        "y": 31.29444444444444,
+                        "type": "curve",
+                        "smooth": true
+                      },
+                      {
+                        "x": 51.91222222222222,
+                        "y": 26.349654984568442,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 55.92076609567955,
+                        "y": 22.341111111111108,
+                        "type": "offcurve"
+                      },
+                      {
+                        "x": 60.865555555555545,
+                        "y": 22.341111111111108,
+                        "type": "curve",
+                        "smooth": true
+                      }
+                    ]
+                  }
+                ],
+                "blendMode": "normal"
               },
               {
-                "id": "path_6825",
+                "id": "path_10960",
                 "type": "group",
                 "children": [
                   {
-                    "id": "path_6826",
+                    "id": "path_10961",
                     "contour": {
-                      "id": "c_path_6826",
+                      "id": "c_path_10961",
                       "closed": true,
                       "nodes": [
                         {
@@ -658,20 +1163,49 @@
                         "opacity": 1
                       }
                     ],
-                    "strokes": []
+                    "strokes": [],
+                    "contours": [
+                      {
+                        "id": "c_path_10961",
+                        "closed": true,
+                        "nodes": [
+                          {
+                            "x": 53.19777777777777,
+                            "y": 38.38111111111111,
+                            "type": "line"
+                          },
+                          {
+                            "x": 68.53222222222222,
+                            "y": 38.38111111111111,
+                            "type": "line"
+                          },
+                          {
+                            "x": 68.53222222222222,
+                            "y": 44.33444444444444,
+                            "type": "line"
+                          },
+                          {
+                            "x": 53.19777777777777,
+                            "y": 44.33444444444444,
+                            "type": "line"
+                          }
+                        ]
+                      }
+                    ],
+                    "blendMode": "normal"
                   },
                   {
-                    "id": "path_6827",
+                    "id": "path_10962",
                     "type": "group",
                     "children": [
                       {
-                        "id": "path_6828",
+                        "id": "path_10963",
                         "type": "group",
                         "children": [
                           {
-                            "id": "path_6829",
+                            "id": "path_10964",
                             "contour": {
-                              "id": "c_path_6829",
+                              "id": "c_path_10964",
                               "closed": true,
                               "nodes": [
                                 {
@@ -703,12 +1237,41 @@
                                 "opacity": 1
                               }
                             ],
-                            "strokes": []
+                            "strokes": [],
+                            "contours": [
+                              {
+                                "id": "c_path_10964",
+                                "closed": true,
+                                "nodes": [
+                                  {
+                                    "x": 51.30222222222222,
+                                    "y": 55.04888888888888,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 70.42888888888889,
+                                    "y": 55.04888888888888,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 70.42888888888889,
+                                    "y": 63.252222222222215,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 51.30222222222222,
+                                    "y": 63.252222222222215,
+                                    "type": "line"
+                                  }
+                                ]
+                              }
+                            ],
+                            "blendMode": "normal"
                           },
                           {
-                            "id": "path_6830",
+                            "id": "path_10965",
                             "contour": {
-                              "id": "c_path_6830",
+                              "id": "c_path_10965",
                               "closed": true,
                               "nodes": [
                                 {
@@ -770,15 +1333,75 @@
                                 "opacity": 1
                               }
                             ],
-                            "strokes": []
+                            "strokes": [],
+                            "contours": [
+                              {
+                                "id": "c_path_10965",
+                                "closed": true,
+                                "nodes": [
+                                  {
+                                    "x": 72.19222222222221,
+                                    "y": 58.845555555555556,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 74.28555555555556,
+                                    "y": 58.845555555555556,
+                                    "type": "offcurve"
+                                  },
+                                  {
+                                    "x": 75.98444444444443,
+                                    "y": 60.54444444444444,
+                                    "type": "offcurve"
+                                  },
+                                  {
+                                    "x": 75.98444444444443,
+                                    "y": 62.63777777777778,
+                                    "type": "curve"
+                                  },
+                                  {
+                                    "x": 75.98444444444443,
+                                    "y": 67.65777777777777,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 45.74666666666667,
+                                    "y": 67.65777777777777,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 45.74666666666667,
+                                    "y": 62.63777777777778,
+                                    "type": "line"
+                                  },
+                                  {
+                                    "x": 45.74666666666667,
+                                    "y": 60.54444444444444,
+                                    "type": "offcurve"
+                                  },
+                                  {
+                                    "x": 47.44555555555556,
+                                    "y": 58.845555555555556,
+                                    "type": "offcurve"
+                                  },
+                                  {
+                                    "x": 49.53888888888889,
+                                    "y": 58.845555555555556,
+                                    "type": "curve"
+                                  }
+                                ]
+                              }
+                            ],
+                            "blendMode": "normal"
                           }
                         ],
-                        "expanded": false
+                        "expanded": false,
+                        "blendMode": "normal"
                       },
                       {
-                        "id": "path_6831",
+                        "id": "path_10966",
                         "contour": {
-                          "id": "c_path_6831",
+                          "id": "c_path_10966",
                           "closed": true,
                           "nodes": [
                             {
@@ -810,21 +1433,53 @@
                             "opacity": 1
                           }
                         ],
-                        "strokes": []
+                        "strokes": [],
+                        "contours": [
+                          {
+                            "id": "c_path_10966",
+                            "closed": true,
+                            "nodes": [
+                              {
+                                "x": 54.87222222222222,
+                                "y": 41.35777777777778,
+                                "type": "line"
+                              },
+                              {
+                                "x": 66.85888888888888,
+                                "y": 41.35777777777778,
+                                "type": "line"
+                              },
+                              {
+                                "x": 66.85888888888888,
+                                "y": 62.178888888888885,
+                                "type": "line"
+                              },
+                              {
+                                "x": 54.87222222222222,
+                                "y": 62.178888888888885,
+                                "type": "line"
+                              }
+                            ]
+                          }
+                        ],
+                        "blendMode": "normal"
                       }
                     ],
-                    "expanded": false
+                    "expanded": false,
+                    "blendMode": "normal"
                   }
                 ],
-                "expanded": false
+                "expanded": false,
+                "blendMode": "normal"
               }
             ],
-            "expanded": false
+            "expanded": false,
+            "blendMode": "normal"
           },
           {
-            "id": "path_6832",
+            "id": "path_10967",
             "contour": {
-              "id": "c_path_6832",
+              "id": "c_path_10967",
               "closed": false,
               "nodes": [
                 {
@@ -858,12 +1513,41 @@
               }
             ],
             "lineCap": "round",
-            "lineJoin": "round"
+            "lineJoin": "round",
+            "contours": [
+              {
+                "id": "c_path_10967",
+                "closed": false,
+                "nodes": [
+                  {
+                    "x": 45.08444444444444,
+                    "y": 50.07111111111111,
+                    "type": "line"
+                  },
+                  {
+                    "x": 41.67777777777777,
+                    "y": 50.07111111111111,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 38.91555555555556,
+                    "y": 47.30888888888888,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 38.91555555555556,
+                    "y": 43.90222222222222,
+                    "type": "curve"
+                  }
+                ]
+              }
+            ],
+            "blendMode": "normal"
           },
           {
-            "id": "path_6833",
+            "id": "path_10968",
             "contour": {
-              "id": "c_path_6833",
+              "id": "c_path_10968",
               "closed": false,
               "nodes": [
                 {
@@ -897,12 +1581,41 @@
               }
             ],
             "lineCap": "round",
-            "lineJoin": "round"
+            "lineJoin": "round",
+            "contours": [
+              {
+                "id": "c_path_10968",
+                "closed": false,
+                "nodes": [
+                  {
+                    "x": 51.25333333333333,
+                    "y": 43.90111111111111,
+                    "type": "line"
+                  },
+                  {
+                    "x": 51.25333333333333,
+                    "y": 47.30777777777778,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 48.4911111111111,
+                    "y": 50.06999999999999,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 45.08444444444444,
+                    "y": 50.06999999999999,
+                    "type": "curve"
+                  }
+                ]
+              }
+            ],
+            "blendMode": "normal"
           },
           {
-            "id": "path_6834",
+            "id": "path_10969",
             "contour": {
-              "id": "c_path_6834",
+              "id": "c_path_10969",
               "closed": false,
               "nodes": [
                 {
@@ -936,12 +1649,41 @@
               }
             ],
             "lineCap": "round",
-            "lineJoin": "round"
+            "lineJoin": "round",
+            "contours": [
+              {
+                "id": "c_path_10969",
+                "closed": false,
+                "nodes": [
+                  {
+                    "x": 70.81777777777778,
+                    "y": 43.20666666666666,
+                    "type": "line"
+                  },
+                  {
+                    "x": 74.22444444444444,
+                    "y": 43.20666666666666,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 76.98666666666666,
+                    "y": 45.96888888888889,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 76.98666666666666,
+                    "y": 49.37555555555555,
+                    "type": "curve"
+                  }
+                ]
+              }
+            ],
+            "blendMode": "normal"
           },
           {
-            "id": "path_6835",
+            "id": "path_10970",
             "contour": {
-              "id": "c_path_6835",
+              "id": "c_path_10970",
               "closed": false,
               "nodes": [
                 {
@@ -975,10 +1717,40 @@
               }
             ],
             "lineCap": "round",
-            "lineJoin": "round"
+            "lineJoin": "round",
+            "contours": [
+              {
+                "id": "c_path_10970",
+                "closed": false,
+                "nodes": [
+                  {
+                    "x": 19.18222222222222,
+                    "y": 43.20666666666666,
+                    "type": "line"
+                  },
+                  {
+                    "x": 15.775555555555554,
+                    "y": 43.20666666666666,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 13.01333333333333,
+                    "y": 45.96888888888889,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 13.01333333333333,
+                    "y": 49.37555555555555,
+                    "type": "curve"
+                  }
+                ]
+              }
+            ],
+            "blendMode": "normal"
           }
         ],
-        "expanded": false
+        "expanded": false,
+        "blendMode": "normal"
       }
     ]
   }
